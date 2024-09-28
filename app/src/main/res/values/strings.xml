@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PizzaGo</string>
+
+    <string name="placement_none">None</string>
+    <string name="placement_left">Left half</string>
+    <string name="placement_right">Right half</string>
+    <string name="placement_all">Whole Pizza</string>
+
+    <string name="topping_basil">Basil</string>
+    <string name="topping_mushroom">Mushrooms</string>
+    <string name="topping_olive">Olives</string>
+    <string name="topping_peppers">Peppers</string>
+    <string name="topping_pepperoni">Pepperoni</string>
+    <string name="topping_pineapple">Pineapple</string>
+
+    <string name="place_order_button">Place Order (%1$s)</string>
+    <string name="order_placed_toast">Order Submitted!</string>
+    <string name="placement_prompt">Where do you want %1s on your pizza?</string>
+    <string name="small">S</string>
+    <string name="medium">M</string>
+    <string name="large">L</string>
+
+    <string name="pizza_preview">Pizza preview</string>
+
+
+</resources>
